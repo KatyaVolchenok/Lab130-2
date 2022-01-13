@@ -21,7 +21,7 @@ public class Main {
         
   //     Authors author1 = new Authors(0, null, null);
     //    Authors author2 = new Authors(6, "Natasha Litvinova", "Yandex");
-   //     Authors author3 = new Authors(5, null, "Google");
+   //     Authors author3 = new Authors(5, null, "Looking");
     //    Authors author4 = new Authors(5, "Sasha Vishnevsky", null);
         
 
